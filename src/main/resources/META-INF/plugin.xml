@@ -40,8 +40,6 @@
     ]]>
   </change-notes>
 
-  <idea-version since-build="172"/>
-
   <depends>com.intellij.modules.lang</depends>
   <extensions defaultExtensionNs="com.intellij">
     <fileTypeFactory implementation="org.nixos.idea.file.NixFileTypeFactory"/>
