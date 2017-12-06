@@ -6,3 +6,4 @@ env:
         - JDK_HOME=/usr/lib/jvm/java-8-oracle
 install: ./get-idea.sh
 script: ./build.sh
+
